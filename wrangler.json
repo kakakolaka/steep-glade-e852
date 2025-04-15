@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "steep-glade-e852",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "22f30c23-1a8b-4509-a63b-b91d406444ba",
+      "database_name": "steep-glade-e852-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
