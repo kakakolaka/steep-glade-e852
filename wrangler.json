@@ -10,6 +10,12 @@
       "database_name": "steep-glade-e852-d1"
     }
   ],
+  "kv_namespaces": [
+    {
+      "binding": "FORUM_CACHE",
+      "id": "YOUR_KV_NAMESPACE_ID_HERE"
+    }
+  ],
   "observability": {
     "enabled": true
   }
