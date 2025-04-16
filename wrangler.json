@@ -6,8 +6,8 @@
   "d1_databases": [
     {
       "binding": "DB",
-      "database_id": "22f30c23-1a8b-4509-a63b-b91d406444ba",
-      "database_name": "steep-glade-e852-d1"
+      "database_id": "6ad3208d-99b3-4363-a31e-a94a037239a6",
+      "database_name": "topfrags-forum"
     }
   ],
   "kv_namespaces": [
