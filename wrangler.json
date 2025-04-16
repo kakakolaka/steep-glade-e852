@@ -13,7 +13,7 @@
   "kv_namespaces": [
     {
       "binding": "FORUM_CACHE",
-      "id": "YOUR_KV_NAMESPACE_ID_HERE"
+      "id": "ece92a773bb14f11859b30797eccb034"
     }
   ],
   "observability": {
